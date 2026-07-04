@@ -6,6 +6,10 @@ Resume Insight AI is an intelligent resume screening platform that analyses a ca
 
 ---
 
+### Live Demo : https://resume-insight-ai-genuvkupqrzmcgs8b4vnye.streamlit.app/
+
+---
+
 ## Features
 
 - ATS-style Resume Match Score

@@ -1,0 +1,66 @@
+{
+  "Programming": [
+    "Python",
+    "SQL",
+    "R",
+    "Java",
+    "JavaScript",
+    "TypeScript",
+    "C++",
+    "C#"
+  ],
+  "Machine Learning": [
+    "Machine Learning",
+    "Scikit-learn",
+    "Feature Engineering",
+    "Model Evaluation",
+    "Random Forest",
+    "Classification",
+    "Regression",
+    "Deep Learning",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "Artificial Intelligence": [
+    "NLP",
+    "LLM",
+    "RAG",
+    "Prompt Engineering",
+    "Hugging Face",
+    "Sentence Transformers",
+    "Embeddings",
+    "Semantic Search",
+    "Generative AI"
+  ],
+  "Data Engineering": [
+    "Data Engineering",
+    "Data Pipeline",
+    "ETL",
+    "Data Quality",
+    "Data Validation",
+    "Data Governance",
+    "Data Management",
+    "API",
+    "REST API",
+    "YAML"
+  ],
+  "Cloud & DevOps": [
+    "AWS",
+    "Azure",
+    "Cloud Platforms",
+    "Docker",
+    "Kubernetes",
+    "Git",
+    "GitHub",
+    "CI/CD"
+  ],
+  "Analytics & BI": [
+    "Power BI",
+    "Tableau",
+    "Excel",
+    "Dashboard",
+    "Data Analysis",
+    "Reporting",
+    "Business Intelligence"
+  ]
+}
